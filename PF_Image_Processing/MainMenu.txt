@@ -1,0 +1,22 @@
+21
+Load Image
+Save Image
+Adjust Brightness
+Linear Contrast Stretching
+Adjust Sharpness
+Convert to Binary
+Resize Image
+Rotate Image
+Horizontal Flip
+Vertical Flip
+Crop Image
+Combine Images
+Apply Mean Filter
+Apply Median Filter
+Apply Linear Filter
+Enhance with Filter
+Compute Image Derivative
+Edge Detection
+Translate Image
+Scale Image
+Exit
