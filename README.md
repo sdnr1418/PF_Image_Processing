@@ -9,7 +9,7 @@ Filters: Median/mean noise reduction, edge detection, sharpening
 
 Advanced Tools: Image derivatives, affine transformations, merging
 
-File Support: PGM (P2 ASCII) with P5 conversion guide
+File Support: PGM (P2 ASCII) 
 
 🛠️ Concepts Demonstrated
 Direct pixel manipulation
