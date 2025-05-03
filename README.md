@@ -1,5 +1,5 @@
 📷 PGM Image Processor - C++
-A command-line toolkit for grayscale image manipulation (PGM P2/P5 formats)
+A command-line toolkit for grayscale image manipulation (PGM P2 formats)
 Developed as part of Prgramming Fundamentals at FAST NUCES LAHORE, Fall 2023
 
 🎮 Features
